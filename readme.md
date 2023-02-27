@@ -1,0 +1,1 @@
+Bits for managing Obsidian vaults
